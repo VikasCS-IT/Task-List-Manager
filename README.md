@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+In this project used Tabulator library to create table.
+Used Tailwind CSS for designing the user interface of this project.
 
 ## Available Scripts
 
