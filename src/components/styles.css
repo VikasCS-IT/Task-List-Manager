@@ -1,0 +1,9 @@
+.tabulator-edit-select, select {
+    position: relative !important; /* Ensure dropdown stays in the correct position */
+    z-index: 1000 !important; /* Bring dropdown above other elements */
+    max-width: 100%; /* Constrain dropdown to cell width */
+    overflow: visible; /* Prevent content overflow */
+}
+.tabulator-cell {
+    overflow: visible !important; /* Ensure content within cells is visible */
+}
